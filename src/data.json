@@ -1,0 +1,39 @@
+{
+    "candies": [
+      {"id": 1, "name": "Chocolate Bar", "category": "candies"},
+      {"id": 2, "name": "Gummy Bears", "category": "candies"},
+      {"id": 3, "name": "Lollipop", "category": "candies"},
+      {"id": 4, "name": "Jelly Beans", "category": "candies"},
+      {"id": 5, "name": "Candy Cane", "category": "candies"},
+      {"id": 6, "name": "Toffee", "category": "candies"},
+      {"id": 7, "name": "Mint Gum", "category": "candies"},
+      {"id": 8, "name": "Fudge", "category": "candies"},
+      {"id": 9, "name": "Marshmallow", "category": "candies"},
+      {"id": 10, "name": "Caramel", "category": "candies"}
+    ],
+    "electronics": [
+      {"id": 11, "name": "Smartphone", "category": "electronics"},
+      {"id": 12, "name": "Laptop", "category": "electronics"},
+      {"id": 13, "name": "Tablet", "category": "electronics"},
+      {"id": 14, "name": "Smartwatch", "category": "electronics"},
+      {"id": 15, "name": "E-Reader", "category": "electronics"},
+      {"id": 16, "name": "Wireless Earbuds", "category": "electronics"},
+      {"id": 17, "name": "Bluetooth Speaker", "category": "electronics"},
+      {"id": 18, "name": "Gaming Console", "category": "electronics"},
+      {"id": 19, "name": "VR Headset", "category": "electronics"},
+      {"id": 20, "name": "Drone", "category": "electronics"}
+    ],
+    "cars": [
+      {"id": 21, "name": "Sedan", "category": "cars"},
+      {"id": 22, "name": "SUV", "category": "cars"},
+      {"id": 23, "name": "Coupe", "category": "cars"},
+      {"id": 24, "name": "Convertible", "category": "cars"},
+      {"id": 25, "name": "Hatchback", "category": "cars"},
+      {"id": 26, "name": "Station Wagon", "category": "cars"},
+      {"id": 27, "name": "Pickup Truck", "category": "cars"},
+      {"id": 28, "name": "Sports Car", "category": "cars"},
+      {"id": 29, "name": "Electric Car", "category": "cars"},
+      {"id": 30, "name": "Hybrid", "category": "cars"}
+    ]
+  }
+  
